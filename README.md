@@ -57,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
