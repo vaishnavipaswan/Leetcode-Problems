@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Divide and Conquer
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
