@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0326-power-of-three) |
 ## Binary Search
 |  |
@@ -133,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2265-partition-array-according-to-given-pivot](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/2551-apply-operations-to-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
