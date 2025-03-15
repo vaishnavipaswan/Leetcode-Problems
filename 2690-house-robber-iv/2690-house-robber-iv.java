@@ -1,30 +1,39 @@
-import java.util.Arrays;
 class Solution {
     public int minCapability(int[] nums, int k) {
-        if (nums.length == 1)
-            return nums[0];
-        int low = Arrays.stream(nums).min().getAsInt(); 
-        int high = Arrays.stream(nums).max().getAsInt();
-        int res = -1;
-        while (low <= high) {
-            int mid = (low + high) / 2;
-            if (maxHousesToSteal(mid, nums) >= k) {
-                res = mid;
-                high = mid - 1; 
-            } else {
-                low = mid + 1; 
+        if(nums.length==0) return 0;
+        int min=nums[0],max=nums[0];
+        for(int i=0;i<nums.length;i++){
+            min=Math.min(nums[i],min);
+            max=Math.max(nums[i],max);
+        }
+        int left=min,right=max;
+        while(left<right){
+            int mid=left+(right-left)/2;
+            int take=countTake(nums,mid);
+            if(take>=k){
+                right=mid;
+            }
+            else{
+                left=mid+1;
             }
         }
-        return res;
+        return left;
+
     }
-    private int maxHousesToSteal(int maxCapability, int[] nums) {
-        int count = 0;
-        for (int i = 0; i < nums.length; i++) {
-            if (nums[i] <= maxCapability) {
+    public int countTake(int[] arr,int mid){
+        int 
+        count=0;
+        int index=0;
+        while(index<arr.length){
+            if(arr[index]<=mid){
                 count++;
-                i++;
+                index+=2;
+            }
+            else{
+                index++;
             }
         }
         return count;
     }
 }
+           
