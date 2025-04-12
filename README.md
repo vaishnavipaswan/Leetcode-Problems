@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0768-partition-labels](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0768-partition-labels) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1170-shortest-common-supersequence](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1170-shortest-common-supersequence) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0768-partition-labels](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0768-partition-labels) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
