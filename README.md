@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0797-rabbits-in-forest) |
+| [1013-fibonacci-number](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0326-power-of-three) |
+| [1013-fibonacci-number](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/2050-count-good-numbers) |
 ## Binary Search
 |  |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-domino-and-tromino-tiling](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1013-fibonacci-number](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 | [1170-shortest-common-supersequence](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -492,4 +495,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
