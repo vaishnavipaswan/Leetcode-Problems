@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0169-majority-element](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0768-partition-labels](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0768-partition-labels) |
