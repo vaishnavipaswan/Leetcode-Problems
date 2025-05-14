@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0027-remove-element) |
+| [0136-single-number](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0268-missing-number) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0268-missing-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
