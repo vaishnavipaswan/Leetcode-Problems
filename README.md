@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0768-partition-labels](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0768-partition-labels) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0268-missing-number) |
