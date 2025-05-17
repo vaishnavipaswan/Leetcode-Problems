@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0768-partition-labels](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0768-partition-labels) |
