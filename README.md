@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0242-valid-anagram) |
+| [0306-additive-number](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0306-additive-number) |
 | [0344-reverse-string](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0768-partition-labels](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0768-partition-labels) |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0306-additive-number](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0306-additive-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
