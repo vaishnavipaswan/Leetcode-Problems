@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0523-continuous-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
