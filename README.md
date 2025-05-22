@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1603-running-sum-of-1d-array](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1656-count-good-triplets) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1603-running-sum-of-1d-array](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2249-count-the-hidden-sequences](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/2249-count-the-hidden-sequences) |
