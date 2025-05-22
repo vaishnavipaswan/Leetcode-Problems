@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0189-rotate-array) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0091-decode-ways) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0368-largest-divisible-subset](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0806-domino-and-tromino-tiling) |
