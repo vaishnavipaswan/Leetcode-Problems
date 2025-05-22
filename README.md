@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0136-single-number) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0091-decode-ways) |
+| [0118-pascals-triangle](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0368-largest-divisible-subset](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0368-largest-divisible-subset) |
