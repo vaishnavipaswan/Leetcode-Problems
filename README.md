@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1127-last-stone-weight](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1127-last-stone-weight) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -601,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [1127-last-stone-weight](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1127-last-stone-weight) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/2681-put-marbles-in-bags) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
