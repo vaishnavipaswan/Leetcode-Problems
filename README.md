@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0386-lexicographical-numbers) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -698,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0386-lexicographical-numbers) |
 ## Bucket Sort
 |  |
 | ------- |
