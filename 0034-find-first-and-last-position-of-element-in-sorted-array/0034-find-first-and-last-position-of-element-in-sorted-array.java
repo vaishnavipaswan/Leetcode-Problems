@@ -1,29 +1,24 @@
 class Solution {
     public int[] searchRange(int[] nums,int target){
-        int[] result={-1,-1};
-        int left=binarySearch(nums,target,true);
-        int right=binarySearch(nums,target,false);
-        result[0]=left;
-        result[1]=right;
-        return result;
+       int ans[]={-1,-1};
+        ans[0]=search(nums,target,true);
+       if(ans[0]!=-1) ans[1]=search(nums,target,false);
+       return ans;
     }
-    private int binarySearch(int[] nums,int target,boolean isSearchingLeft){
-        int left=0,right=nums.length-1,idx=-1;
-        while(left<=right){
-            int mid=left+(right-left)/2;
-            if(nums[mid]>target){
-                right=mid-1;
-            }else if(nums[mid]<target){
-                left=mid+1;
-            }else{
-                idx=mid;
-                if(isSearchingLeft){
-                    right=mid-1;
-                }else{
-                    left=mid+1;
-                }
+    public int search(int nums[],int target,boolean findStart){
+        int ans=-1;
+        int start=0;
+        int end=nums.length-1;
+        while(start<=end){
+            int mid=start+(end-start)/2;
+            if(target<nums[mid])end=mid-1;
+            else if(target>nums[mid])start=mid+1;
+            else {
+                ans=mid;
+                if(findStart) end=mid-1;
+                else start=mid+1;
             }
         }
-        return idx;
+        return ans;
     }
 }
