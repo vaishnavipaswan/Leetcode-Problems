@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1170-shortest-common-supersequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -614,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/2532-remove-letter-to-equalize-frequency) |
@@ -724,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -749,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0306-additive-number](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0306-additive-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Combinatorics
 |  |
 | ------- |
@@ -763,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1656-count-good-triplets](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/2998-count-symmetric-integers) |
