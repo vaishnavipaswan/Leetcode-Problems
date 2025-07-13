@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2664-maximize-greatness-of-an-array](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/2664-maximize-greatness-of-an-array) |
 | [2665-minimum-time-to-repair-cars](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/2665-minimum-time-to-repair-cars) |
 | [2681-put-marbles-in-bags](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/2681-put-marbles-in-bags) |
 | [2690-house-robber-iv](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/2690-house-robber-iv) |
@@ -566,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2664-maximize-greatness-of-an-array](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/2664-maximize-greatness-of-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -694,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2664-maximize-greatness-of-an-array](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/2664-maximize-greatness-of-an-array) |
 | [2681-put-marbles-in-bags](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -775,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2664-maximize-greatness-of-an-array](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/2664-maximize-greatness-of-an-array) |
 | [2681-put-marbles-in-bags](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/2681-put-marbles-in-bags) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
