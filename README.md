@@ -400,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0797-rabbits-in-forest](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1013-fibonacci-number) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -887,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Concurrency
 |  |
 | ------- |
