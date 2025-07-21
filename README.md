@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1170-shortest-common-supersequence](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1170-shortest-common-supersequence) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
