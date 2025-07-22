@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [1813-maximum-erasure-value](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1813-maximum-erasure-value) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1656-count-good-triplets) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1813-maximum-erasure-value](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1813-maximum-erasure-value) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -645,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1813-maximum-erasure-value](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1813-maximum-erasure-value) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
