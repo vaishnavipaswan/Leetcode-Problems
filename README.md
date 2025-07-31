@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0932-monotonic-array](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0932-monotonic-array) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0945-snakes-and-ladders](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0945-snakes-and-ladders) |
 | [1019-squares-of-a-sorted-array](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
@@ -530,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-domino-and-tromino-tiling](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 | [1170-shortest-common-supersequence](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -627,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0389-find-the-difference) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
