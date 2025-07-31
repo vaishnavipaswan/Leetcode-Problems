@@ -371,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3194-find-words-containing-character](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3221-find-the-peaks](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/3221-find-the-peaks) |
 | [3227-find-missing-and-repeated-values](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -871,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/3201-distribute-candies-among-children-ii) |
+| [3221-find-the-peaks](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/3221-find-the-peaks) |
 | [3548-find-the-count-of-good-integers](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
