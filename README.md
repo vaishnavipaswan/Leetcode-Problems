@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
+| [0679-24-game](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0679-24-game) |
 | [0724-find-pivot-index](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0792-binary-search) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0368-largest-divisible-subset) |
 | [0523-continuous-subarray-sum](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0523-continuous-subarray-sum) |
+| [0679-24-game](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0797-rabbits-in-forest) |
 | [0867-new-21-game](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0900-reordered-power-of-2) |
@@ -882,6 +884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0306-additive-number](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0306-additive-number) |
+| [0679-24-game](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0679-24-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
