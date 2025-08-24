@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1628-count-submatrices-with-all-ones](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -560,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 | [1170-shortest-common-supersequence](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1170-shortest-common-supersequence) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -705,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1813-maximum-erasure-value) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
