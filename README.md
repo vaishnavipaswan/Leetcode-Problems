@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0679-24-game](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0679-24-game) |
 | [0724-find-pivot-index](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0724-find-pivot-index) |
@@ -551,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0611-valid-triangle-number](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -672,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0868-push-dominoes) |
 | [0901-advantage-shuffle](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0901-advantage-shuffle) |
@@ -822,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
 | [0900-reordered-power-of-2](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0900-reordered-power-of-2) |
 | [0901-advantage-shuffle](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0901-advantage-shuffle) |
 | [1019-squares-of-a-sorted-array](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
@@ -920,6 +924,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0797-rabbits-in-forest) |
 | [0901-advantage-shuffle](https://github.com/vaishnavipaswan/Leetcode-Problems/tree/master/0901-advantage-shuffle) |
